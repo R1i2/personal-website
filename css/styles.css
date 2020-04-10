@@ -7,7 +7,7 @@ body {
 .bottom-cloud {
   position: absolute;
   left: 300px;
-  bottom: 300px;
+  bottom: 250px;
 }
 .bottom-container {
   background-color: #66bfbf;
@@ -87,10 +87,9 @@ hr {
 .top-container {
   background-color: #eaf6f6;
   color: #66bfbf;
-  position:relative;
 }
 .top-cloud {
-  position: relative;
+  position: absolute;
   left:300px;
   top:20px;
 }
